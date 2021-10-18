@@ -44,9 +44,18 @@ sections:
           *   *   Propuesta de concepto*   Historias muy chulas*   Dibujitos
       - title: 02 | El diseño
         image: images/service-2.svg
-        content: >
-          *   *   Revisiones de disenyo*   Renders*   Videos*   Abrazos*  
-          Materiales*   Planos
+        content: |
+          *   Revisiones de disenyo
+
+          *   Renders
+
+          *   Videos
+
+          *   Abrazos
+
+          *   Materiales
+
+          *   Planos
       - title: Experience design
         image: images/service-3.svg
         content: >
