@@ -8,21 +8,6 @@ sections:
       Construyamos algo increible.
 
       Rellena el formulario de contacto o mandanos un email a <hola@okuma.es>.
-
-
-      ## Nuestras Oficinas
-
-      ### Amsterdam
-
-      1234 Some St.
-      San Francisco, CA 12345
-      1-234-556-7890
-
-      ### Aguilas
-
-      1234 Some St.
-      New York, NY 12345
-      1-234-556-7890
     form_id: contactForm
     form_action: /thank-you
     form_fields:
