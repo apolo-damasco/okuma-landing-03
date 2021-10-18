@@ -50,8 +50,8 @@ sections:
       - title: Experience design
         image: images/service-3.svg
         content: >
-          *   *   *   Revisiones de disenyo*   Contacto directo con
-          constructores
+          *   *   *   Vigilar a paco*   Revisiones de disenyo*   Contacto
+          directo con constructores
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
