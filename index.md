@@ -61,7 +61,7 @@ sections:
           *   Contacto directo con constructores
   - type: cta_section
     section_id: cta
-    title: Let’s Work Together!
+    title: Trabajemos Juntos!
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
