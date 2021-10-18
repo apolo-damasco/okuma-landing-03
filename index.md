@@ -40,14 +40,8 @@ sections:
     grid_items:
       - title: 01 / La idea
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   *   Propuesta de concepto*   Historias muy chulas*   Dibujitos
       - title: Brand design
         image: images/service-2.svg
         content: |-
