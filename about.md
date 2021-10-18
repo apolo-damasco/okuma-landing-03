@@ -32,7 +32,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - title: Miguel de Rojas
+      - title: Marc Amig
         image: images/team-2.png
         subtitle: 'Co-Founder, Creative Director'
         content: >-
