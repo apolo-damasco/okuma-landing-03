@@ -56,7 +56,7 @@ sections:
           *   Materiales
 
           *   Planos
-      - title: Experience design
+      - title: 03 | La ejecución
         image: images/service-3.svg
         content: |
           *   Vigilar a paco
