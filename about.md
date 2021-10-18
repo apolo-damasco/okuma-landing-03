@@ -44,7 +44,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - title: Gordon Norman
+      - title: Marc
         image: images/team-3.png
         subtitle: Creative Producer
         content: >-
