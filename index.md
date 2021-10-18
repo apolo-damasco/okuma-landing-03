@@ -58,9 +58,10 @@ sections:
           *   Planos
       - title: Experience design
         image: images/service-3.svg
-        content: >
-          *   *   *   Vigilar a paco*   Revisiones de disenyo*   Contacto
-          directo con constructores
+        content: |
+          *   Vigilar a paco
+          *   Revisiones de disenyo
+          *   Contacto directo con constructores
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
