@@ -42,7 +42,7 @@ sections:
         image: images/service-1.svg
         content: |
           *   *   Propuesta de concepto*   Historias muy chulas*   Dibujitos
-      - title: Brand design
+      - title: 02 | El diseño
         image: images/service-2.svg
         content: |-
           - Brand development
