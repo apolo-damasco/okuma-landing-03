@@ -47,7 +47,12 @@ sections:
       - title: 02 | El diseño
         image: images/service-2.svg
         content: |
-          *   Revisiones de disenyo
+          *   Revisiones de diseny
+          *   Renders
+          *   Videos
+          *   Abrazos
+          *   Materiales
+          *   Planos
       - title: 03 | La ejecución
         image: images/service-3.svg
         content: |
