@@ -4,39 +4,25 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >-
-      Let’s build something great together.<br>
+    content: |
+      Construyamos algo increible.
 
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
-
-
-      ***
+      Rellena el formulario de contacto o mandanos un email a <hola@okuma.es>.
 
 
-      ## Our Offices
+      ## Nuestras Oficinas
 
+      ### Amsterdam
 
-      ### San Francisco
+      1234 Some St.
+      San Francisco, CA 12345
+      1-234-556-7890
 
-      1234 Some St.<br>
+      ### Aguilas
 
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
-
-      1234 Some St.<br>
-
-      New York, NY 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      1234 Some St.
+      New York, NY 12345
+      1-234-556-7890
     form_id: contactForm
     form_action: /thank-you
     form_fields:
