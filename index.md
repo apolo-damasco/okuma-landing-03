@@ -41,7 +41,9 @@ sections:
       - title: 01 / La idea
         image: images/service-1.svg
         content: |
-          *   *   Propuesta de concepto*   Historias muy chulas*   Dibujitos
+          *   Propuesta de concepto
+          *   Historias muy chulas
+          *   Dibujitos
       - title: 02 | El diseño
         image: images/service-2.svg
         content: |
