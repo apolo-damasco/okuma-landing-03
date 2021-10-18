@@ -38,7 +38,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Business design
+      - title: 01 / La idea
         image: images/service-1.svg
         content: |-
           - Research and insight
