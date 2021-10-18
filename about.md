@@ -17,7 +17,7 @@ sections:
   - type: grid_section
     section_id: team
     title: El Equipo
-    subtitle: An optional subtitle of the section
+    subtitle: ole
     col_number: three
     grid_items:
       - title: Gerardo Peregrín
