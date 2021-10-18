@@ -19,7 +19,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Tu direcci
+        default_value: 'Tu direccion de '
         is_required: true
       - input_type: select
         name: subject
