@@ -48,16 +48,6 @@ sections:
         image: images/service-2.svg
         content: |
           *   Revisiones de disenyo
-
-          *   Renders
-
-          *   Videos
-
-          *   Abrazos
-
-          *   Materiales
-
-          *   Planos
       - title: 03 | La ejecución
         image: images/service-3.svg
         content: |
