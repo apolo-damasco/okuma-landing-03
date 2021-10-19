@@ -34,31 +34,28 @@ sections:
         image_alt: Logo 5
   - type: grid_section
     section_id: services
-    title: Services
-    subtitle: What we do
+    title: Servicios
+    subtitle: Que ofrecemos
     col_number: three
     grid_items:
-      - title: 01 / La idea
+      - title: 01 | Idea
         image: images/service-1.svg
         content: |
-          *   Propuesta de concepto
-          *   Historias muy chulas
-          *   Dibujitos
-      - title: 02 | El diseño
+          *   Estudio de la empresa
+          *   Extraccion de valores clave
+          *   Concepto de stand
+      - title: 02 | Propuesta
         image: images/service-2.svg
         content: |
-          *   Revisiones de diseny
-          *   Renders
-          *   Videos
-          *   Abrazos
-          *   Materiales
-          *   Planos
-      - title: 03 | La ejecución
+          *   Diseño
+          *   Visualizaciones
+          *   Mediciones
+      - title: 03 | Gestión
         image: images/service-3.svg
         content: |
-          *   Vigilar a paco
-          *   Revisiones de disenyo
-          *   Contacto directo con constructores
+          *   Revisiones de Diseño
+          *   Colaboración con constructores
+          *   Revisión de obra
   - type: cta_section
     section_id: cta
     title: Trabajemos Juntos!
