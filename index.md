@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Somos Okuma. Un estudio de diseño especializado en stands. Nuestra mision
-      no solo es eso sino que es queso.
+      Somos Okuma, un estudio de diseño especializado en stands. Nuestro
+      objetivo es generar espacios que representen el espiritu de tu marca.
     content: "Somos una empresa de diseño y branding. Trabajamos de manera estrecha contigo y tu equipo para proveer un resultado que inspire.\_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
   - type: portfolio_section
     section_id: latest-projects
