@@ -1,20 +1,19 @@
 ---
-title: Home
+title: Inicio
 hide_title: true
 sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Somos Okuma. Un estudio de diseño especializado en stands. Nuestra mision
-      no solo es eso sino que es queso.
-    content: "Somos una empresa de diseño y branding. Trabajamos de manera estrecha contigo y tu equipo para proveer un resultado que inspire.\_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
+      Somos Okuma, un estudio de diseño especializado en stands. Nuestro objetivo es generar espacios que representen el espiritu de tu marca.
+    content: "Somos una empresa de diseño y branding. Trabajamos de manera estrecha contigo y tu equipo para proveer un resultado que inspire. \_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
     title: Proyectos
     subtitle: En que hemos estado trabajando
     projects_number: 6
-    view_all_label: View All
+    view_all_label: Ver más
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
@@ -22,16 +21,16 @@ sections:
     subtitle: A few of the companies we're proud to call partners
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
+      - image: images/logos/primaflor.png
+        image_alt: Primaflor
+      - image: images/logos/primaram.png
+        image_alt: Primaram
+      - image: images/logos/ferrer.png
+        image_alt: Ferrer Arquitectos
+      - image: images/logos/allfilm.png
+        image_alt: Allfilm Juntos
+      - image: images/logos/genus.png
+        image_alt: Proyecto Genus
   - type: grid_section
     section_id: services
     title: Servicios

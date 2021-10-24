@@ -33,3 +33,9 @@ cloudinary:
       steps: 5
       sizes: '(min-width: 50rem) 50rem, 90vw'
       figure: always
+
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLSdttcxx5KG42Ub0yf_k0j9ZNMyygK66Mr0mQHy8bsi9e-uf8g
+comment-post-fields: [ entry.1745873823, entry.1164485287, entry.913504291]
+entry.1745873823: okuma-name
+entry.1164485287: okuma-email
+entry.913504291: okuma-message

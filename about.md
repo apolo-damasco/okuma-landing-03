@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: Nuestra historia
 hide_title: false
 sections:
   - type: content_section
@@ -12,32 +12,17 @@ sections:
 
       In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
       turpis et nisi fermentum accumsan.
-    image: images/about.jpg
-    image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
     title: El Equipo
-    subtitle: ole
+    subtitle: Arquitectos Multidisciplinarios
     col_number: three
     grid_items:
       - title: Gerardo Peregrín
-        image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        image: images/gerardo.svg
+        subtitle: 'Co-Fundador, Diseñador'
         content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Marc Amigó
-        image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
+          Arquitecto con Master por la Universidad de Granada. En su paso por Gascon Group diseño stands para ferias de lujo en suiza.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
@@ -45,11 +30,21 @@ sections:
             icon: twitter
             new_window: true
       - title: Miguel de Rojas
-        image: images/team-3.png
-        subtitle: Creative Producer
+        image: images/miguel.svg
+        subtitle: 'Co-Fundador, Diseñador'
         content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
+          Arquitecto con Master en Teconologia de Construcción por la Universidad Politecnica de Delft. Ha trabajado como arquitecto en varios de los despachos más grandes del mundo.
+        actions:
+          - label: Twitter
+            url: 'https://twitter.com/'
+            style: icon
+            icon: twitter
+            new_window: true
+      - title: Marc Amigó
+        image: images/marc.svg
+        subtitle: 'Co-Fundador, Diseñador'
+        content: >-
+          Arquitecto con Master por la Universidad Politecnica de Cataluña. Ha diseñado desde viviendas unifalimilares a proyectos de urbanismo de ciudades.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'

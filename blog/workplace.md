@@ -1,12 +1,12 @@
 ---
-title: The Elements of Great Workplace Design
+external_url: https://www.diariodealmeria.es/finanzasyagricultura/Primaflor-Mimaflor-Calienta-listo-Fruit-Attraction_0_1618040037.html
+title: Primaflor dio la ‘alternativa’ a ‘Mimaflor’ y ‘Calienta y listo’ en Fruit Attraction 2021
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '2021-02-12'
-thumb_image: images/post-6-thumb.jpg
+  Primaflor ha concluido su presencia en Fruit Attraction con más de 1.500 personas que han visitado su stand.
+date: '2021-10-09'
+thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635074728/okuma/projects/primaflor/Front_8__Comp_fcmxne.jpg
 thumb_image_alt: White desk lamp beside green plant
-image: images/post-6.jpg
+image: https://res.cloudinary.com/okuma/image/upload/v1635074728/okuma/projects/primaflor/Front_8__Comp_fcmxne.jpg
 image_alt: White desk lamp beside green plant
 seo:
   title: The Elements of Great Workplace Design
@@ -40,11 +40,5 @@ seo:
     - name: 'twitter:image'
       value: images/post-6.jpg
       relativeUrl: true
-layout: post
+layout: external
 ---
-
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
