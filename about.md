@@ -1,5 +1,6 @@
 ---
 title: Nuestra historia
+subtitle: De edificios a stands
 hide_title: false
 sections:
   - type: content_section
