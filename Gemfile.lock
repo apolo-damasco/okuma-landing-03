@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/iveney/jekyll-cloudinary
+  revision: 79b00db11e4df0e4ca1e9daf10bd61d6b4a09ada
+  branch: master
+  specs:
+    jekyll-cloudinary (1.14.1)
+      fastimage (~> 2.0)
+      jekyll (>= 3.6, < 5)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -9,6 +18,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    fastimage (2.2.5)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -63,6 +73,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.8.4)
+  jekyll-cloudinary!
   jekyll-menus (~> 0.6.0)
   jekyll-paginate (~> 1.1)
   jekyll-paginate-v2 (~> 1.9)

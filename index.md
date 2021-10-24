@@ -60,10 +60,9 @@ sections:
     section_id: cta
     title: Trabajemos Juntos!
     content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+      Escirbenos a [hola@okuma.es](mailto:hola@okuma.es) o explicanos más sobre tu proyecto pulsando al botón.
     actions:
-      - label: Let's start
+      - label: Empecemos
         url: /contact
         style: button
     image: images/cta.svg

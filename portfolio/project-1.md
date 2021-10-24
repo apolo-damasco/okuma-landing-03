@@ -1,18 +1,16 @@
 ---
-title: Design Is One
-subtitle: Print
-date: '2020-02-10'
-thumb_image: images/work-poster-1-thumb.jpg
+title: Primaflor
+subtitle: Fruit Attraction
+date: '2021-10-02'
+thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: images/work-poster-1.jpg
-    image_alt: Design Is One 1
-    caption: This is the caption of the image
+    image: https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
+    image_alt: Vista frontal stand
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
+    content: >-       
       accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
       Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
       in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
@@ -21,7 +19,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-poster-2.jpg
+    image: https://res.cloudinary.com/okuma/image/upload/v1635074723/okuma/projects/primaflor/Side_8__Comp_diaaaj.jpg
     image_alt: Design Is One 2
     width: wide
   - type: text_section
@@ -31,7 +29,7 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-poster-3.jpg
+    image: https://res.cloudinary.com/okuma/image/upload/v1635074729/okuma/projects/primaflor/Front_4__Comp_l7xiiv.jpg
     image_alt: Design Is One 3
     width: wide
   - type: text_section

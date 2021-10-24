@@ -1,12 +1,12 @@
 ---
-title: Aimi
-subtitle: Brand Development
+title: Rizoma
+subtitle: EICIMA
 date: '2020-03-10'
-thumb_image: images/work-branding-1-thumb.jpg
+thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
-    image: images/work-branding-1.jpg
+    image: https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
     image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
@@ -21,7 +21,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-branding-2.jpg
+    image: https://res.cloudinary.com/okuma/image/upload/v1635078124/okuma/projects/rizoma/R19_Immagine_3_idiwrd.jpg
     image_alt: Aimi 2
     width: wide
   - type: text_section
@@ -31,7 +31,7 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-branding-3.jpg
+    image: https://res.cloudinary.com/okuma/image/upload/v1635078122/okuma/projects/rizoma/R19_Immagine_1_jweqj1.jpg
     image_alt: Aimi 3
     width: wide
   - type: text_section
