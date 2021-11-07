@@ -1,6 +1,6 @@
 ---
-title: Primaflor
-subtitle: Fruit Attraction
+title: Stand Primaflor
+subtitle: Fruit Attraction, Madrid (España) 2021
 date: '2021-10-02'
 thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
 thumb_image_alt: Design Is One preview

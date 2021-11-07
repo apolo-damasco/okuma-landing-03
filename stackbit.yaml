@@ -204,7 +204,7 @@ models:
   portfolio:
     type: page
     urlPath: /portfolio
-    label: Portfolio
+    label: Proyectos
     layout: portfolio
     file: portfolio/index.md
     hideContent: true

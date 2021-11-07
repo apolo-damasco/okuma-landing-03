@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: Los proyectos en los que hemos trabajado
+title: Proyectos
+subtitle: Trabajos realizados
 layout_style: mosaic
 seo:
   title: Portfolio

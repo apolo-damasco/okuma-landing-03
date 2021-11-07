@@ -5,8 +5,10 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      Somos Okuma, un estudio de diseño especializado en stands. Nuestro objetivo es generar espacios que representen el espiritu de tu marca.
-    content: "Somos una empresa de diseño y branding. Trabajamos de manera estrecha contigo y tu equipo para proveer un resultado que inspire. \_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
+      Mostramos los valores de tu empresa… contamos tu historia.
+    content: "Somos Okuma. Una empresa de diseño y branding especializada en Stands. Nuestro objetivo es generar
+    espacios que representen los valores de tu empresa y marca. Para ello trabajamos de manera
+    estrecha contigo y tu equipo para proveer un resultado que inspire. Hablemos. \_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -22,11 +24,9 @@ sections:
     col_number: three
     grid_items:
       - image: images/logos/primaflor.png
-        image_alt: Primaflor
+        image_alt: Stand Primaflor
       - image: images/logos/primaram.png
-        image_alt: Primaram
-      - image: images/logos/ferrer.png
-        image_alt: Ferrer Arquitectos
+        image_alt: Primaram 
       - image: images/logos/allfilm.png
         image_alt: Allfilm Juntos
       - image: images/logos/genus.png
@@ -34,32 +34,32 @@ sections:
   - type: grid_section
     section_id: services
     title: Servicios
-    subtitle: Que ofrecemos
+    subtitle: Lo que te ofrecemos
     col_number: three
     grid_items:
       - title: 01 | Idea
         image: images/service-1.svg
         content: |
           *   Estudio de la empresa
-          *   Extraccion de valores clave
-          *   Concepto de stand
-      - title: 02 | Propuesta
+          *   Selección de valores a mostrar
+          *   Concepto de Stand
+      - title: 02 | Proyecto
         image: images/service-2.svg
         content: |
-          *   Diseño
+          *   Diseño y proyecto constructivo
           *   Visualizaciones
-          *   Mediciones
-      - title: 03 | Gestión
+          *   Mediciones y presupuesto
+      - title: 03 | Gestión y control
         image: images/service-3.svg
         content: |
-          *   Revisiones de Diseño
-          *   Colaboración con constructores
-          *   Revisión de obra
+          *   Revisiones de diseño
+          *   Coordinación de la constructora
+          *   Dirección de obra
   - type: cta_section
     section_id: cta
     title: Trabajemos Juntos!
     content: >-
-      Escirbenos a [hola@okuma.es](mailto:hola@okuma.es) o explicanos más sobre tu proyecto pulsando al botón.
+      Escríbenos a [hola@okuma.es](mailto:hola@okuma.es) o explícanos más sobre tu proyecto pulsando a continuación.
     actions:
       - label: Empecemos
         url: /contact
