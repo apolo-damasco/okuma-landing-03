@@ -1,6 +1,6 @@
 ---
-title: Prensa
-subtitle: 'Noticias'
+title: Noticias
+subtitle: ''
 hide_title: false
 col_number: three
 seo:

@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Okuma",
     "color_scheme": "light",
     "accent_color": "green",
     "base_font": "fraunces",
     "header": {
-        "title": "Agency",
+        "title": "Okuma",
         "logo": "images/Logo_v1.png",
-        "logo_alt": "Agency logo",
+        "logo_alt": "Okuma logo",
         "has_nav": true,
         "nav_links": [
             {
