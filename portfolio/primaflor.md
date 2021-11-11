@@ -5,9 +5,10 @@ date: '2021-10-02'
 thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
 thumb_image_alt: Design Is One preview
 sections:
-  - type: image_section
-    image: https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
-    image_alt: Vista frontal stand
+  - type: image_slider
+    image:
+    - https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1635074723/okuma/projects/primaflor/Side_8__Comp_diaaaj.jpg
     width: wide
   - type: text_section
     content: >-       
@@ -18,9 +19,10 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
-  - type: image_section
-    image: https://res.cloudinary.com/okuma/image/upload/v1635074723/okuma/projects/primaflor/Side_8__Comp_diaaaj.jpg
-    image_alt: Design Is One 2
+  - type: image_slider
+    image:
+    - https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1635074723/okuma/projects/primaflor/Side_8__Comp_diaaaj.jpg
     width: wide
   - type: text_section
     content: >-

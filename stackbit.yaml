@@ -346,6 +346,7 @@ models:
           models:
             - image_section
             - text_section
+            - image_slider
       - type: model
         name: seo
         models:
@@ -690,6 +691,20 @@ models:
         name: content
         label: Content
         description: The text content of the section
+  image_slider:
+    type: object
+    label: Image Slider
+    fields:
+      - type: list
+      - type: enum
+        name: width
+        label: Width
+        description: The width of the image
+        options:
+          - regular
+          - wide
+        default: regular
+        required: true
   image_section:
     type: object
     label: Image Section
