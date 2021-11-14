@@ -5,6 +5,7 @@ date: '2021-10-02'
 thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635074718/okuma/projects/primaflor/Interior_6__Comp_fwmtfi.jpg
 thumb_image_alt: Design Is One preview
 sections:
+
   - type: image_slider
     image:
     - https://res.cloudinary.com/okuma/image/upload/v1636928582/okuma/projects/primaflor/Acabado/9_2_r2ez4c.jpg
@@ -55,6 +56,10 @@ sections:
 
 
       El stand no termina aquí: un cielo de 600 luces led bajan por el interior de cada uno de los tubos blancos colgados, programadas para aumentar o disminuir su intensidad según se necesite para atraer la atención del visitante, así como para generar expectación en presentaciones de productos, showcooking, etc
+
+  - type: image_section
+    image: https://res.cloudinary.com/okuma/image/upload/v1636928582/okuma/projects/primaflor/Acabado/9_2_r2ez4c.jpg
+    width: wide
 seo:
   title: Design Is One
   description: This is the sample project description
