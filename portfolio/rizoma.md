@@ -15,19 +15,24 @@ slider:
 sections:
   - type: image_section
     image: https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
-    image_alt: Aimi 1
-    caption: This is the caption of the image
+    image_alt: 
+    caption: 
     width: wide
   - type: text_section
     content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+      Primer proyecto de Stand de un miembro del equipo Okuma, para la empresa RIZOMA en la Esposizione Internazionale Ciclo Motociclo e Accesori (EICMA), o más conocida en el mundo como el “Milan Motorcycle Show”, la exposición más importante del mundo de referencia para las dos ruedas.
+      
+      
+      La empresa Rizoma se consolida en todo el mundo como marca de accesorios del motor, donde su estilo y diseño “made in italy” ha reinventado el concepto de piezas de repuesto en sus más de 20 años de experiencia.
+      
+      
+      Se realiza el diseño y montaje del Stand Rizoma para la 77ª edición de EICMA 2019 desde un estudio de arquitectura suizo, basado en el estilo inconfundible de la marca italiana en sus 325m2 de espacio, donde las líneas puras de sus productos expuestos configuran el carácter minimalista, elegante y refinado de este espacio. 
+      
+      
+      Su disposición centralizada pretende ganar el mayor espacio central posible y aumentar el aforo, destinando los usos más privados (zonas de reuniones, expositores, barra y almacén) en el perímetro, y así generar expositores de productos de doble función: hacia el interior, y hacia el exterior del stand, para captar la atención del visitante.
+      
+      
+      El juego de colores blanco y negro, propios de la marca, dan cromatismo a este elegante espacio.
 
 seo:
   title: Aimi

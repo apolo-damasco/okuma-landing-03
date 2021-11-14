@@ -3,7 +3,13 @@
 
 
 <div class="image-block container{% if section_width == 'regular' %} container--md{% endif %}{% if section_width == 'wide' %} container--lg{% endif %}">
-  <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+  <div id="carouselExampleFade" class="
+  {% if section.darkmode == 'yes' %}
+    carousel carousel-dark slide
+  {% else %}
+    carousel slide carousel-fade
+  {% endif %}
+ " data-bs-ride="carousel">
       
     <!-- Indicators -->
 
