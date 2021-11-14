@@ -4,20 +4,17 @@ subtitle: EICMA, Milán (Italia) 2019
 date: '2020-03-10'
 thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
 thumb_image_alt: Aimi preview
-slider:
-  - image: "https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg"
-  - image: "https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg"
-  - image: "https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg"
-  - image: "https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg"
-  - image: "https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg"
-  - image: "https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg"
-  
+
 sections:
-  - type: image_section
-    image: https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
-    image_alt: 
-    caption: 
+
+  - type: image_slider
+    image:
+    - https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1635078124/okuma/projects/rizoma/R19_Immagine_3_idiwrd.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1635078122/okuma/projects/rizoma/R19_Immagine_1_jweqj1.jpg
+
     width: wide
+    darkmode: 'yes'
   - type: text_section
     content: >-
       Primer proyecto de Stand de un miembro del equipo Okuma, para la empresa RIZOMA en la Esposizione Internazionale Ciclo Motociclo e Accesori (EICMA), o más conocida en el mundo como el “Milan Motorcycle Show”, la exposición más importante del mundo de referencia para las dos ruedas.

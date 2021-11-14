@@ -8,7 +8,7 @@ sections:
       Mostramos los valores de tu empresa… contamos tu historia.
     content: "Somos Okuma. Una empresa de diseño y branding especializada en Stands. Nuestro objetivo es generar
     espacios que representen los valores de tu empresa y marca. Para ello trabajamos de manera
-    estrecha contigo y tu equipo para proveer un resultado que inspire. Hablemos. \_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
+    estrecha contigo y tu equipo para proveer un resultado que inspire. \_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
