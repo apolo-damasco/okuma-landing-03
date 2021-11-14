@@ -3,7 +3,7 @@ title: Stand Rizoma
 subtitle: EICMA, Milán (Italia) 2019
 date: '2020-03-10'
 thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
-thumb_image_alt: Aimi preview
+thumb_image_alt: Rizoma Stand
 
 sections:
 
