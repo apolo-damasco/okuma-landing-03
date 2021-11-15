@@ -6,21 +6,21 @@ sections:
     section_id: hero
     title: >-
       Mostramos los valores de tu empresa… contamos tu historia.
-    content: "Somos Okuma. Una empresa de diseño y branding especializada en Stands. Nuestro objetivo es generar
+    content: "Somos Okuma. Una empresa de diseño y branding especializada en Stands. Nuestro objetivo es proveer
     espacios que representen los valores de tu empresa y marca. Para ello trabajamos de manera
     estrecha contigo y tu equipo para proveer un resultado que inspire. \_[Hablemos](https://preview--okuma-landing-02-d5e3a.stackbit.dev/contact/).\n"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
     title: Proyectos
-    subtitle: En que hemos estado trabajando
+    subtitle: En qué hemos estado trabajando
     projects_number: 6
     view_all_label: Ver más
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
-    title: Clientes
-    subtitle: A few of the companies we're proud to call partners
+    title: Clientes y Colaboradores
+    subtitle: 
     col_number: three
     grid_items:
       - image: images/logos/primaflor.png
@@ -31,6 +31,8 @@ sections:
         image_alt: Allfilm Juntos
       - image: images/logos/genus.png
         image_alt: Proyecto Genus
+      - image: images/logos/alc.png
+        image_alt: Grupo ALC
   - type: grid_section
     section_id: services
     title: Servicios

@@ -12,6 +12,11 @@ sections:
     - https://res.cloudinary.com/okuma/image/upload/v1635078123/okuma/projects/rizoma/R19_Immagine_2_ng2fxg.jpg
     - https://res.cloudinary.com/okuma/image/upload/v1635078124/okuma/projects/rizoma/R19_Immagine_3_idiwrd.jpg
     - https://res.cloudinary.com/okuma/image/upload/v1635078122/okuma/projects/rizoma/R19_Immagine_1_jweqj1.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1636959091/okuma/projects/rizoma/1_ixm4en.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1636959091/okuma/projects/rizoma/3_pknlg5.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1636959091/okuma/projects/rizoma/4_ldkkmt.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1636959091/okuma/projects/rizoma/5_grzy63.jpg
+    - https://res.cloudinary.com/okuma/image/upload/v1636959091/okuma/projects/rizoma/2_axf5gg.jpg
 
     width: wide
     darkmode: 'yes'
