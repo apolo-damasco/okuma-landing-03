@@ -70,7 +70,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: Okuma. Agencia de Diseño de Stands
   description: >-
     We are a brand and design practice. We work closely with you, your team to
     deliver inspiring work, which enables your organization to grow.
@@ -79,7 +79,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Okuma. Agencia de Diseño de Stands
       keyName: property
     - name: 'og:description'
       value: >-
