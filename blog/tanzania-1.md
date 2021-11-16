@@ -1,13 +1,11 @@
 ---
-external_url: https://www.diariodealmeria.es/finanzasyagricultura/Primaflor-Mimaflor-Calienta-listo-Fruit-Attraction_0_1618040037.html
-title: Primaflor dio la ‘alternativa’ a ‘Mimaflor’ y ‘Calienta y listo’ en Fruit Attraction 2021
+external_url: https://www.designboom.com/architecture/okuma-studio-local-materials-modular-house-tanzania-07-21-2020/
+title: okuma studio combines local materials with modular design for house in tanzania
 excerpt: >-
-  Primaflor ha concluido su presencia en Fruit Attraction con más de 1.500 personas que han visitado su stand.
-date: '2021-10-09'
-thumb_image: https://res.cloudinary.com/okuma/image/upload/v1635074728/okuma/projects/primaflor/Front_8__Comp_fcmxne.jpg
-thumb_image_alt: White desk lamp beside green plant
-image: https://res.cloudinary.com/okuma/image/upload/v1635074728/okuma/projects/primaflor/Front_8__Comp_fcmxne.jpg
-image_alt: White desk lamp beside green plant
+  Following our coverage of the archstorming competition to design a house for a large family in tanzania, okuma studio has shared their proposal, which was awarded second prize.
+date: '2020-07-21'
+thumb_image: https://res.cloudinary.com/okuma/image/upload/v1637094562/okuma/prensa/tanzania-1_q9ewwf.webp
+thumb_image_alt: Tanzania Designboom
 seo:
   title: The Elements of Great Workplace Design
   description: >-

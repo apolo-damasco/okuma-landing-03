@@ -64,7 +64,7 @@ sections:
       Escríbenos a [hola@okuma.es](mailto:hola@okuma.es) o explícanos más sobre tu proyecto pulsando a continuación.
     actions:
       - label: Empecemos
-        url: /contact
+        url: mailto:hola@okuma.es
         style: button
     image: images/cta.svg
     image_alt: Illustration
