@@ -4,8 +4,8 @@ subtitle: ''
 hide_title: false
 col_number: three
 seo:
-  title: Prensa
-  description: This is the journal page
+  title: Noticias
+  description: 
   extra:
     - name: 'og:type'
       value: website
